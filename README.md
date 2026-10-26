@@ -26,6 +26,7 @@ GitHub 项目按 Star 降序排列。
 - [fablr](https://github.com/Agions/fablr) `153` — 剧工 Fablr：本地优先桌面工坊（Tauri 2 + Rust + React），素材拆条、多 Agent 剧本研磨、剪映草稿导出，带 5 级消重合规后再分发。
 - [openframe](https://github.com/murongg/openframe) `116` — 开源免费 AI 漫剧工作台：剧本到角色/场景、分镜、成片，导出 FCPXML / EDL，支持 Web 与桌面端。
 - [workrally](https://github.com/Tencent/workrally) `113` — 腾讯开源、面向 AI Agent 的 AIGC 漫剧全流程工具集，把漫剧创作各阶段交给 Agent 调用。
+- [OpenMontage Drama Studio](https://github.com/charliewwdev/OpenMontage) `2` — 可自部署的 AI 短剧 / 短视频工坊：一句话灵感按剧本、角色、场景、道具、分镜、配音、剪辑七个环节出片，任一环节可单独重做；附爆款短视频套路与电商带货广告模板；出图出视频调用付费的 Seedream / Seedance API；基于 calesthio/OpenMontage 代码起步、已重构为独立产品，AGPL-3.0。
 
 ## 一键短视频与批量成片
 
